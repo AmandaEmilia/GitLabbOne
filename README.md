@@ -7,4 +7,10 @@ This is a
 
 > This is a block-qoute!
 
+1. Heading 1
+	- heading 2
+2. Normal text
+	- bold
+	- italic
+
 

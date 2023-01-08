@@ -7,11 +7,10 @@ This is a
 
 > This is a block-qoute!
 
-1. Heading 1
-	- heading 2
+1. Normal text
+	- **bold**
 2. Normal text
-	- bold
-	- italic
+	- *italic*
 
 ### Link to google
 
